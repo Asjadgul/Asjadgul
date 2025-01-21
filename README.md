@@ -1,28 +1,42 @@
-👋 Hello, I'm @Asjadgul
+![👋 Hi, my name is Hassaan](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-As a driven and ambitious individual, I'm passionate about harnessing the power of technology to create innovative solutions. My interests lie in:
-- Developing robust and scalable applications
-- Coding and problem-solving
-- Staying up-to-date with the latest advancements in the field
+![Profile views](https://komarev.com/ghpvc/?username=Asjadgul&label=Profile%20views&color=0e75b6&style=flat)
 
-Currently, I'm dedicating my time to learning React Native, expanding my skillset, and exploring new opportunities. With a solid foundation in Android development,
-I'm excited to take on the challenge of learning React Native, despite having no prior experience in web development. Although I had the option to choose Flutter, which might have been an easier path, 
-I opted for React Native due to its vast and active community, robust ecosystem, and numerous benefits, including:
-- Cross-platform compatibility with a single codebase
-- Fast refresh and hot reloading for efficient development
-- Extensive library support and third-party integrations
-- Seamless integration with existing Android and iOS projects
-- Constantly evolving and improving with new features and updates
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Asjad Gull
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-I'm eager to leverage these advantages to build innovative mobile applications and contribute to exciting projects."
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"> <a href="https://github.com/Asjadgul" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@elitecoder7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-I'm eager to collaborate on:
-- Mobile application development projects
-- Innovative startups
-- Open-source initiatives
+ **<h3 align="left">✨ I am a skilled developer who can do Web Development and Mobile Application Development</h3>**
 
-Feel free to reach out to me at asjadgull123@gmail.com to discuss potential collaborations or projects.
+**<h3 align="left">Rapid Fire</h3>**
 
-⚡ Fun fact: I'm in my final semester of pursuing a Bachelor's degree in Computer Science. I've devised a comprehensive plan to revolutionize the ride-hailing industry and create a unicorn company.
-I'm working tirelessly alongside my dean to turn this vision into a reality.
+- 💼 I'm currently working on: **💻 Currently Developing a Mobile application for my assignment from Aptech**
+- 🌱 I'm currently learning: **📚 Exploring Flutter and AI**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js and Flutter**
+- ⚡ Fun fact: **🎢 Once I completed a project that was made in bugs**
+- 📂 Portfolio: **<a href="🔗 https://Asjadgul.github.io/Hassaan-Portfolio/" target="_blank">🔗 https://Asjadgul.github.io/Hassaan-Portfolio/</a>**
 
+ **<h3 align="left">Skills</h3>**
+
+<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=jquery" height="40" alt="JQuery"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Threejs"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visualstudio"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/></td></table>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asjadgul&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Asjadgul&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asjadgul&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgul&repo=Hassaan-Portfolio&bg_color=bg_color=35%2Cd22b40%2C87B45F%2CD4793A&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
