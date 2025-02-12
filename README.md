@@ -12,16 +12,13 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"> <a href="https://github.com/Asjadgul" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@elitecoder7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
  **<h3 align="left">✨ I am a skilled developer who can do Web Development and Mobile Application Development</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Currently Developing a Mobile application for my assignment from Aptech**
 - 🌱 I'm currently learning: **📚 Exploring Flutter and AI**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js and Flutter**
+- 💬 Ask me about: **💡 JavaScript, React.js, Node.js and App Dev**
 - ⚡ Fun fact: **🎢 Once I completed a project that was made in bugs**
 - 📂 Portfolio: **<a href="🔗 https://Asjadgul.github.io/Hassaan-Portfolio/" target="_blank">🔗 https://Asjadgul.github.io/Hassaan-Portfolio/</a>**
 
