@@ -17,7 +17,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working in: **💻 Darul Solutions**
-- 🌱 I'm currently learning: **📚 Exploring Generative AI**
+- 🌱 I'm currently **📚 Exploring Generative AI**
 - 💬 Ask me about: **💡 JavaScript, React.js, Node.js and App Dev**
 - ⚡ Fun fact: **🎢 Once I completed a project that was made in bugs**
 
